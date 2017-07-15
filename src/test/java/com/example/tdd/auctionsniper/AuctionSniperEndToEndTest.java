@@ -1,4 +1,4 @@
-package com.example.tdd.auction.sniper;
+package com.example.tdd.auctionsniper;
 
 import org.junit.After;
 import org.junit.Test;

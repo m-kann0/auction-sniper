@@ -23,5 +23,18 @@
       <version>4.12</version>
       <scope>test</scope>
     </dependency>
+
+    <dependency>
+      <groupId>com.googlecode.windowlicker</groupId>
+      <artifactId>windowlicker-swing</artifactId>
+      <version>r268</version>
+      <scope>test</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>org.igniterealtime.smack</groupId>
+      <artifactId>smack</artifactId>
+      <version>3.2.1</version>
+    </dependency>
   </dependencies>
 </project>
